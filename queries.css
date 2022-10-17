@@ -1,0 +1,186 @@
+@media (max-width: 74rem) {
+  .main-heading {
+    font-size: 7rem !important;
+  }
+  .description {
+    font-size: 2rem;
+  }
+  .hero-btn {
+    font-size: 1.4rem !important;
+  }
+  .companies p {
+    font-size: 4.4rem;
+  }
+  h4 {
+    font-size: 4.4rem !important;
+  }
+  .info-box h5 {
+    font-size: 5.5rem;
+  }
+  .btn-info {
+    font-size: 1.4rem !important;
+    padding: 0.6rem 1.2rem !important;
+  }
+  .footer-2 p {
+    display: inline-block;
+    text-decoration: underline;
+    font-size: 1.4rem !important;
+  }
+  .footer-2-2 {
+    font-size: 1.4rem;
+  }
+}
+
+@media (max-width: 59rem) {
+  .main-heading {
+    font-size: 6.2rem !important;
+  }
+  .companies p {
+    font-size: 2.6rem;
+  }
+  .symbol {
+    margin-left: 3.2rem;
+  }
+  .logo-img img {
+    height: 3rem;
+  }
+  .footer-left-col ul li {
+    font-size: 1.8rem;
+  }
+  .footer-right-description {
+    font-size: 1.8rem;
+  }
+  .footer-right-h {
+    font-size: 1.8rem;
+  }
+  .email-wrap {
+    justify-content: end;
+  }
+}
+
+@media (max-width: 42rem) {
+  .main-heading {
+    font-size: 4.4rem !important;
+  }
+  .hero-btn {
+    font-size: 1.4rem !important;
+    padding: 0.5rem 1rem !important;
+    padding-bottom: 18rem;
+  }
+  .logo-img img {
+    margin-left: 3.2rem;
+    height: 1.7rem !important;
+  }
+  .companies p {
+    font-size: 2.8rem !important;
+  }
+  ion-icon {
+    font-size: 3rem !important;
+  }
+  .content-heading {
+    font-size: 1.8;
+  }
+  .content-description {
+    font-size: 1.5rem;
+  }
+  .testimonials-img {
+    width: 13rem;
+    height: 13rem !important;
+    object-fit: cover;
+    border-radius: 60rem;
+  }
+  .testimonials .my-container h4 {
+    font-size: 3.6rem !important;
+  }
+  .faq {
+    font-size: 3.6rem;
+  }
+  #footer-mae {
+    font-size: 3.6rem;
+  }
+  .footer-left-col ul li {
+    font-size: 1.4rem;
+  }
+  .footer-right-h {
+    font-size: 1.6rem;
+  }
+  .footer-right-description {
+    font-size: 1.4rem;
+  }
+  .accordion-body p {
+    font-size: 1.6rem !important;
+  }
+  .footer-r {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 2rem;
+  }
+  .images-row {
+    justify-content: center !important;
+  }
+}
+@media (max-width: 34rem) {
+  .main-heading {
+    font-size: 3.6rem !important;
+  }
+  .description {
+    font-size: 1.8rem !important;
+  }
+  .button-group {
+    margin-bottom: 4rem !important;
+    padding-bottom: 2rem;
+  }
+  .images-row {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center !important;
+  }
+  .img-rounded {
+    border-radius: 60rem;
+    height: 40rem;
+    width: 40rem;
+    object-fit: cover;
+  }
+  .img-responsive {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .companies p {
+    font-size: 2.2rem !important;
+    font-family: serif;
+    display: inline-block;
+  }
+  .logo-img img {
+    margin-right: 2.3rem;
+    height: 1.3rem !important;
+    margin-left: 0;
+  }
+  .symbol {
+    display: ;
+  }
+  .companies {
+    justify-content: space-between;
+  }
+  h4 {
+    font-size: 4.4rem !important;
+  }
+  .vid {
+    gap: 2rem;
+  }
+  .botom-r {
+    flex-direction: column;
+    align-items: flex-start !important;
+    gap: 2rem;
+  }
+  .info-box h5 {
+    font-size: 3rem;
+  }
+  .info-box {
+    padding: 9rem;
+  }
+  .footer-right-h {
+    margin-top: 3rem;
+  }
+}

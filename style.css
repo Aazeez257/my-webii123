@@ -1,0 +1,422 @@
+html {
+  font-size: 62.5%;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow-x: hidden;
+  box-sizing: border-box !important;
+}
+.navbar-nav {
+  align-items: center !important;
+}
+/* ***************************************
+  NAVIGATION  SECTION
+************************************** */
+
+.my-container {
+  margin: 0 auto;
+  max-width: 140rem;
+}
+.my-container-green {
+  background-color: #e2fade;
+}
+.navigation {
+  background-color: #e2fade;
+}
+.navbar {
+  background-color: #e2fade;
+}
+.nav-link {
+  font-size: 1.6rem !important;
+  font-weight: 700 !important;
+  color: black !important;
+  font-family: "Poppins", sans-serif;
+}
+
+/* ***************************************
+  NAVIGATION  SECTION
+*************************************** */
+
+/* ***************************************
+  Hero SECTION
+*************************************** */
+
+.hero {
+  background-color: #e2fade;
+  padding-top: 12rem;
+}
+.main-heading {
+  font-size: 8rem;
+  font-family: serif;
+
+  line-height: 1.2;
+
+  text-align: center;
+}
+.description {
+  font-size: 2.4rem;
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.hero-btn {
+  background-color: #082921 !important;
+  color: #e2fade !important;
+  font-size: 1.6rem !important;
+  padding: 1rem 2rem !important;
+  padding-bottom: 18rem;
+}
+.hero-btn:last-child {
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid #082921;
+}
+.button-group {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+}
+
+/* ***************************************
+  Hero  SECTION
+*************************************** */
+
+/* ***************************************
+  Images-Row  SECTION
+*************************************** */
+.img-rounded {
+  opacity: 1;
+}
+.images-row {
+  display: flex;
+  align-items: center;
+}
+.image-group {
+  height: 100%;
+  background-color: #e2fade !important;
+}
+
+.companies {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  margin-top: 8rem;
+  margin-bottom: 8rem;
+}
+.companies p {
+  font-size: 4.8rem;
+  font-family: serif;
+}
+
+.logo-img img {
+  margin-left: 6.4rem;
+  height: 2.7rem !important;
+}
+.symbol {
+  margin-left: 9.6rem;
+}
+/* ***************************************
+  Images-Row  SECTION
+*************************************** */
+
+/* ***************************************
+  Features  SECTION
+*************************************** */
+
+h4 {
+  font-size: 4.8rem !important;
+  font-family: serif;
+  font-weight: 500 !important;
+  text-align: center;
+  padding-top: 8rem;
+  padding-bottom: 5rem;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+ion-icon {
+  font-size: 2.5rem !important;
+  --ionicon-stroke-width: 3.2rem;
+}
+.content-heading {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-top: 2.4rem;
+  margin-bottom: 1.2rem;
+}
+
+.content-description {
+  font-size: 1.5rem;
+  padding-bottom: 10rem;
+  text-align: center;
+}
+.features-section .my-container {
+  background-color: #e2fade;
+}
+/* ***************************************
+  Features  SECTION
+*************************************** */
+
+/* ***************************************
+  VIDEO  SECTION
+*************************************** */
+.rat-video {
+  height: 100%;
+  width: 100%;
+}
+.wrap {
+  padding: 10rem;
+  background-color: #08292183;
+}
+
+/* ***************************************
+  VIDEO  SECTION
+*************************************** */
+
+/* ***************************************
+  Testimonials  SECTION
+*************************************** */
+
+.testimonials .my-container {
+  background-color: #e2fade;
+  margin-top: 5rem;
+}
+.testimonials-img {
+  width: 14rem;
+  height: 14rem !important;
+  object-fit: cover;
+  border-radius: 60rem;
+}
+
+.testi-box {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.8rem;
+  color: #082921;
+  max-width: 50rem;
+  margin: 0 auto;
+  align-items: center;
+  text-align: center;
+  font-family: serif;
+  letter-spacing: 0.8px;
+}
+.carousel-control-next-icon {
+  height: 4rem !important;
+  width: 4rem !important;
+  background-color: #082921;
+}
+
+.carousel-control-prev-icon {
+  height: 4rem !important;
+  width: 4rem !important;
+  background-color: #082921;
+}
+.testi-author {
+  font-weight: 900;
+}
+.testi-symbol {
+  font-weight: 600;
+}
+.testi-who {
+  color: #082921;
+  padding-bottom: 5rem;
+}
+.testimonials .my-container h4 {
+  padding-top: 5rem;
+  padding-bottom: 2.5rem;
+}
+/* ***************************************
+  Testimonials  SECTION
+*************************************** */
+
+/* ***************************************
+  faq  SECTION
+*************************************** */
+
+.faq-section .my-container {
+  margin-top: 9.6rem;
+  margin-bottom: 9.6rem;
+}
+.faq {
+  font-size: 4.4rem;
+  font-family: serif;
+  font-weight: 500;
+}
+.faq-description {
+  font-size: 1.6rem;
+}
+.accordion-button {
+  font-size: 1.8rem !important;
+  padding-bottom: 3rem !important;
+}
+.accordion-body p {
+  font-size: 1.8rem;
+}
+.faq-section .my-container .row {
+  display: flex !important;
+  align-items: center;
+}
+/* ***************************************
+  faq  SECTION
+*************************************** */
+
+/* ***************************************
+  marketing  SECTION
+*************************************** */
+.info-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #082921;
+  padding: 12.8rem;
+}
+.info-box h5 {
+  font-size: 6.4rem;
+  text-align: center;
+  color: #e2fade;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
+}
+.btn-info {
+  background-color: white !important;
+  color: #082921;
+  padding: 1rem 2rem !important;
+  font-size: 1.6rem !important;
+  margin-top: 2rem;
+  font-weight: 600 !important;
+}
+.line {
+  margin: 7rem 0;
+}
+/* ***************************************
+  marketing  SECTION
+*************************************** */
+
+/* ***************************************
+  footer  SECTION
+*************************************** */
+.footer-left-col ul li {
+  list-style: none;
+  line-height: 2.1;
+}
+.footer-left-col ul {
+  padding-left: 0;
+  margin-bottom: 0;
+  width: 9rem;
+}
+
+/* .email-wrap {
+  display: flex !important;
+} */
+.btn-sign-up {
+  background-color: #082921 !important;
+  color: #e2fade !important;
+  font-size: 1.6rem !important;
+  text-align: center;
+  margin-bottom: 0 !important;
+  border-radius: 1.1rem !important;
+  display: inline-block !important;
+}
+.footer-left-col ul li {
+  font-size: 1.6rem;
+  font-family: "Poppins", sans-serif;
+  color: #000000;
+  font-weight: 500;
+}
+.footer-left-col ul li:first-child {
+  font-weight: 600;
+  margin-bottom: 1.4rem;
+}
+footer h5 {
+  font-size: 1.6rem;
+  margin-bottom: 0.6rem;
+  line-height: 1;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+.footer-box {
+  display: flex !important;
+  justify-content: space-between;
+}
+.footer-email-section {
+  display: flex !important;
+  justify-content: end;
+}
+
+.footer-right-description {
+  font-size: 1.6rem;
+  margin-bottom: 4rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+.email-box {
+  height: 4rem;
+  font-size: 1.8rem;
+  border: 0;
+  display: inline-block !important;
+}
+.email-wrap {
+  border: 2px solid black;
+  padding: 1rem;
+  border-radius: 1.1rem;
+}
+#footer-mae {
+  font-size: 4.4rem;
+  font-weight: 600;
+  margin-bottom: 5.2rem;
+}
+.footer-2 .my-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-2 p {
+  display: inline-block;
+  text-decoration: underline;
+  font-size: 1.2rem !important;
+}
+.footer-2 p:last-child {
+  margin-left: 2rem;
+}
+.footer-icons {
+  margin-left: 1rem;
+}
+.footer-2 {
+  margin-bottom: 7rem;
+}
+.sticky-bottom {
+  display: inline-block;
+  position: fixed;
+  bottom: 4% !important;
+  left: 93%;
+
+  border: 2px solid black;
+  font-family: "Poppins";
+  background-color: #e2fade;
+  color: #082921 !important;
+  font-weight: 600;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.footer-r {
+  /* width: max-content; */
+  margin-right: 0 !important;
+  margin-left: auto !important;
+}
+.input-align {
+  display: flex;
+  align-items: center;
+  border: 2px solid black;
+  max-width: 35rem;
+}
+/* ***************************************
+  footer  SECTION
+*************************************** */
